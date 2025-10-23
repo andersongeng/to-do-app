@@ -1,4 +1,4 @@
-# 📝 To-Do App
+# To-Do App
 
 ## Descripción
 Una aplicación de lista de tareas que te permite **crear, marcar como completadas y eliminar tareas**, con todo guardado localmente en tu navegador. Revisa tus tareas en cualquier momento y lugar.  
@@ -13,7 +13,7 @@ Una aplicación de lista de tareas que te permite **crear, marcar como completad
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - **HTML**  
 - **CSS**  
 - **JavaScript**  
@@ -21,7 +21,7 @@ Una aplicación de lista de tareas que te permite **crear, marcar como completad
 
 ---
 
-## 🚀 Cómo usar
+## Cómo usar
 1. Clonar o descargar el repositorio.
 
 2. Abrir el archivo index.html en tu navegador.
